@@ -1,3 +1,4 @@
-# JavaScript Basic
-[Link](https://www.youtube.com/watch?v=PuG2VW18O1E&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=14)
+# Feature branch
+## 기능을 개발하는 브랜치 (특정 기능을 구현하기 위한 한시적 작업)
 
+commit test
